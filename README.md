@@ -1,10 +1,4 @@
-# SHOPPING HT
 
-#### Projeto do Módulo 3 da Fábrica de Programador da High Tech para gerenciamento e administração de Shopping
-
-## Baixando o projeto
-
-    git clone https://github.com/fabricadeprogramador/t21-shopping-ht-api.git
 
 ## Instalando as dependências
 
@@ -51,8 +45,8 @@ Isso retornará um `json` no seguinte formato:
 
 ```json
 {
-  "System": "Shopping HT - API",
+  "System": "Lembretes",
   "Version": "1.0.0",
-  "Message": "Seja bem-vindo ao Sistema de Gerenciamento Shopping HT da High Tech"
+  "Message": "teste"
 }
 ```
