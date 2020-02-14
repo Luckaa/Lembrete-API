@@ -1,0 +1,12 @@
+{
+    "apiPort": "3000",
+
+    "development": {
+        "db": {
+            "name": "lojadecarro",
+            "url": "ds033116.mlab.com:33116",
+            "user": "teste",
+            "password": "teste123"
+        }
+    } 
+} 
